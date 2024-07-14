@@ -1,0 +1,2 @@
+# ./xmrig -a algo -o pool -u wallet -p x -t 8 cpu
+# tùy Theo lệnh chạy của ae đao coin gì nó sẽ khác nhau
